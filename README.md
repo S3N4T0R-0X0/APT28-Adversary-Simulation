@@ -83,6 +83,9 @@ This payload establishes covert communication via socket to a remote server, dis
   
 2.Identification mechanism: It retrieves the MachineGuid from the Windows registry and calculates its CRC32 checksum.
 
+![171351508026027259](https://github.com/S3N4T0R-0X0/APT28-Adversary-Simulation/assets/121706460/ba5979bc-eb9b-4e98-b74a-002e6846ff36)
+
+
 3.Command execution: The payload enters a loop to receive commands from the remote server or OneDrive.
 
 4.Data exfiltration: After execution it captures output and sends it back to the server or uploads it to OneDrive.
