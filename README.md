@@ -1,4 +1,4 @@
-# APT28 Adversary Simulation
+# Fancy Bear APT28 Adversary Simulation
 This is a simulation of attack by Fancy Bear group (APT28) targeting high-ranking government officials Western Asia and Eastern Europe
 the attack campaign was active from October to November 2021, The attack chain starts with the execution of an Excel downloader sent 
 to the victim via email which exploits an MSHTML remote code execution vulnerability (CVE-2021-40444) to execute a malicious executable
